@@ -30,12 +30,12 @@ namespace Microsoft.Solutions.PatientHub.BatchInference.ChangefeedWatcher
             PatientPredictionFeedWatcher._patients = new PatientService.PatientService(configuration["Values:DBConnectionString"], configuration["Values:DatabaseName"], "Patient");
         }
 
-        /// <summary>
-        /// Catch the Changes in Prediction Container
-        /// </summary>
-        /// <param name="changes"></param>
-        /// <param name="cancellationToken"></param>
-        /// <returns></returns>
+        // / <summary>
+        // / Catch the Changes in Prediction Container
+        // / </summary>
+        // / <param name="changes"></param>
+        // / <param name="cancellationToken"></param>
+        // / <returns></returns>
         protected override async Task OnChangedFeedDataSets(IReadOnlyCollection<Prediction> changes, CancellationToken cancellationToken)
         {
             foreach (var item in changes)

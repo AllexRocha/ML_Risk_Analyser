@@ -20,7 +20,7 @@ DocumentAnalysisClient client = new DocumentAnalysisClient(new Uri(endpoint), cr
 
 
 // sample document
-Uri fileUri = new Uri("https://raw.githubusercontent.com/AllexRocha/ML_Risk_Analyser/master/exame_1.pdf");
+Uri fileUri = new Uri("https://raw.githubusercontent.com/AllexRocha/ML_Risk_Analyser/master/Forms_Recognizer/exames/exame_1.pdf");
 
 AnalyzeDocumentOperation operation = await client.AnalyzeDocumentFromUriAsync(WaitUntil.Completed, "prebuilt-document", fileUri);
 
