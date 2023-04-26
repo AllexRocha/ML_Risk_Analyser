@@ -1,0 +1,24 @@
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.Test\bin\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.deps.json
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.Test\bin\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.Test\bin\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.pdb
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.AssemblyInfo.cs
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\refint\Microsoft.Solutions.Test.MSTestV2.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.pdb
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\ref\Microsoft.Solutions.Test.MSTestV2.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.Test\bin\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.deps.json
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.Test\bin\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.Test\bin\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.csproj.AssemblyReference.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.AssemblyInfoInputs.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.AssemblyInfo.cs
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.csproj.CoreCompileInputs.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\refint\Microsoft.Solutions.Test.MSTestV2.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\Microsoft.Solutions.Test.MSTestV2.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.Test\obj\Debug\net5.0\ref\Microsoft.Solutions.Test.MSTestV2.dll

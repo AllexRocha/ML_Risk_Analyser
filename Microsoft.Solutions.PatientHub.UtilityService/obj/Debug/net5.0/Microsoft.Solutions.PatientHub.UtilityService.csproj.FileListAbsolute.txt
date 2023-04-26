@@ -1,0 +1,24 @@
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.deps.json
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.pdb
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.AssemblyInfo.cs
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\refint\Microsoft.Solutions.PatientHub.UtilityService.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.pdb
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\ref\Microsoft.Solutions.PatientHub.UtilityService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.deps.json
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.csproj.AssemblyReference.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.AssemblyInfoInputs.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.AssemblyInfo.cs
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.csproj.CoreCompileInputs.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\refint\Microsoft.Solutions.PatientHub.UtilityService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.UtilityService\obj\Debug\net5.0\ref\Microsoft.Solutions.PatientHub.UtilityService.dll

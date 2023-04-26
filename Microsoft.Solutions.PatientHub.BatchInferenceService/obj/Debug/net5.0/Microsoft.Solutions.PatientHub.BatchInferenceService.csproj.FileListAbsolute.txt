@@ -1,0 +1,15 @@
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.BatchInferenceService.deps.json
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.BatchInferenceService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.BatchInferenceService.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.UtilityService.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.BatchInferenceService.csproj.AssemblyReference.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.BatchInferenceService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.BatchInferenceService.AssemblyInfoInputs.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.BatchInferenceService.AssemblyInfo.cs
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.BatchInferenceService.csproj.CoreCompileInputs.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.BatchInferenceService.csproj.CopyComplete
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.BatchInferenceService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\obj\Debug\net5.0\refint\Microsoft.Solutions.PatientHub.BatchInferenceService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.BatchInferenceService.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.BatchInferenceService\obj\Debug\net5.0\ref\Microsoft.Solutions.PatientHub.BatchInferenceService.dll

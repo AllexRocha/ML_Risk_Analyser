@@ -1,0 +1,118 @@
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\teste.exe
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\teste.deps.json
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\teste.runtimeconfig.json
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\teste.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\teste.pdb
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.CosmosDB.SQL.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.CosmosDB.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.PatientHub.RealtimeInferenceService.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.PatientHub.UtilityService.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.Test.MSTestV2.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.PatientHub.RealtimeInferenceService.pdb
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.Test.MSTestV2.pdb
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.PatientHub.UtilityService.pdb
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.csproj.CopyComplete
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\obj\Debug\net8.0\refint\teste.dll
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.pdb
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\teste\obj\Debug\net8.0\ref\teste.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\teste.exe
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\teste.deps.json
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\teste.runtimeconfig.json
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\teste.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\teste.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.CosmosDB.SQL.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.CosmosDB.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.PatientHub.RealtimeInferenceService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.PatientHub.UtilityService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.Test.MSTestV2.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.PatientHub.RealtimeInferenceService.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.Test.MSTestV2.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\bin\Debug\net8.0\Microsoft.Solutions.PatientHub.UtilityService.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.csproj.AssemblyReference.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.csproj.CopyComplete
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\obj\Debug\net8.0\refint\teste.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\teste\obj\Debug\net8.0\ref\teste.dll

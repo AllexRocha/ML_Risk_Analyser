@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "56e2LYXfgvJwHuoXtcIppwJZ4+9DvJ3r9IaFTBat08lBUIO03IS0/8bJn0VLhBlSz9sswuxM3duyodwNIXPGqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService\\Microsoft.Solutions.PatientHub.CognitiveService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.17.0\\microsoft.cognitiveservices.speech.1.17.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

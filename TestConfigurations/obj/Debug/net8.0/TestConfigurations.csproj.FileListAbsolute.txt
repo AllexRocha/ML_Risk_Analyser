@@ -1,0 +1,5 @@
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\TestConfigurations\obj\Debug\net8.0\TestConfigurations.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\TestConfigurations\obj\Debug\net8.0\TestConfigurations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\TestConfigurations\obj\Debug\net8.0\TestConfigurations.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\TestConfigurations\obj\Debug\net8.0\TestConfigurations.AssemblyInfo.cs
+C:\Users\alex\Documents\blueshift\projeto_acelerador\projeto teste\Backend_Deployment\src\TestConfigurations\obj\Debug\net8.0\TestConfigurations.csproj.CoreCompileInputs.cache

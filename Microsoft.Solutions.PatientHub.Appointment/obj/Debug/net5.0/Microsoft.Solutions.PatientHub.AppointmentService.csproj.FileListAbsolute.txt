@@ -1,0 +1,12 @@
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.Appointment\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.AppointmentService.deps.json
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.Appointment\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.AppointmentService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.Appointment\bin\Debug\net5.0\Microsoft.Solutions.PatientHub.AppointmentService.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.Appointment\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.AppointmentService.csproj.AssemblyReference.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.Appointment\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.AppointmentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.Appointment\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.AppointmentService.AssemblyInfoInputs.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.Appointment\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.AppointmentService.AssemblyInfo.cs
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.Appointment\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.AppointmentService.csproj.CoreCompileInputs.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.Appointment\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.AppointmentService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.Appointment\obj\Debug\net5.0\refint\Microsoft.Solutions.PatientHub.AppointmentService.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.Appointment\obj\Debug\net5.0\Microsoft.Solutions.PatientHub.AppointmentService.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\Microsoft.Solutions.PatientHub.Appointment\obj\Debug\net5.0\ref\Microsoft.Solutions.PatientHub.AppointmentService.dll

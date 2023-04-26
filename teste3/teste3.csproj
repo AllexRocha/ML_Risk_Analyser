@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Microsoft.Solutions.PatientHub.PatientService\Microsoft.Solutions.PatientHub.PatientService.csproj" />
+    <ProjectReference Include="..\Microsoft.Solutions.Test\Microsoft.Solutions.Test.MSTestV2.csproj" />
+    <ProjectReference Include="..\Microsoft.Solutions.PatientHub.BatchInferenceService\Microsoft.Solutions.PatientHub.BatchInferenceService.csproj" />
+  </ItemGroup>
+</Project>
