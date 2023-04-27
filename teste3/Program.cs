@@ -9,6 +9,8 @@ using System.ComponentModel;
 using Microsoft.Solutions.PatientHub.PatientService.Models;
 using Microsoft.Solutions.PatientHub.BatchInferenceService;
 using Microsoft.Solutions.PatientHub.UtilityService;
+using teste3.Models;
+
 
 
 
@@ -43,12 +45,12 @@ public class PatientServiceTests
         Console.WriteLine(count);
     }
 
-    public async Task Test_02_GetPatient()
+    public async Task<Patient> Test_02_GetPatient()
     {
         var result = await patientService.GetPatient("1");
      
-         
-             Console.WriteLine(JsonConvert.SerializeObject(result));
+        return result;
+            //  Console.WriteLine(JsonConvert.SerializeObject(result));
         
        
     }
@@ -93,13 +95,16 @@ public class PatientServiceTests
 
     }
 
+        public async Task Test_02_UpdateExam()
+    {
+     var result = await patientService.UpdateExam("1");
+    }
+
        public static async Task Main()
     {
         PatientServiceTests minhaClasse = new PatientServiceTests();
-        minhaClasse.InitTest();
-        await minhaClasse.Test_01_GetExamTest();
-       
+        minhaClasse.InitTest();     
+        await minhaClasse.Test_02_UpdateExam();
    }
 
 }
-

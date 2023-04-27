@@ -34,6 +34,6 @@ foreach (DocumentKeyValuePair kvp in result.KeyValuePairs)
        dict.Add(kvp.Key.Content, kvp.Value.Content);
 }
 
-String json = JsonConvert.SerializeObject(dict, new JsonSerializerSettings { Formatting = Formatting.None });
+object json = JsonConvert.SerializeObject(dict, new JsonSerializerSettings { Formatting = Formatting.None });
 
 Console.WriteLine(json);

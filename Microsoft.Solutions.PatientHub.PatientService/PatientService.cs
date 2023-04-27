@@ -109,29 +109,57 @@ namespace Microsoft.Solutions.PatientHub.PatientService
         async public Task<string> GetExam(string PatientId)
         {
  
-string endpoint = "https://formsteste.cognitiveservices.azure.com/";
-string key = "6b4446031b3f47d5ae062269b7632ccb";
+            string endpoint = "https://formsteste.cognitiveservices.azure.com/";
+            string key = "6b4446031b3f47d5ae062269b7632ccb";
 
-AzureKeyCredential credential = new AzureKeyCredential(key);
-DocumentAnalysisClient client = new DocumentAnalysisClient(new Uri(endpoint), credential);
+            AzureKeyCredential credential = new AzureKeyCredential(key);
+            DocumentAnalysisClient client = new DocumentAnalysisClient(new Uri(endpoint), credential);
 
-// sample document
-Uri fileUri = new Uri("https://raw.githubusercontent.com/AllexRocha/ML_Risk_Analyser/master/Forms_Recognizer/exames/exame_2.pdf");
+            // sample document
+            Uri fileUri = new Uri($"https://raw.githubusercontent.com/AllexRocha/ML_Risk_Analyser/master/Forms_Recognizer/exames/{PatientId}.pdf");
 
-AnalyzeDocumentOperation operation = await client.AnalyzeDocumentFromUriAsync(WaitUntil.Completed, "prebuilt-document", fileUri);
+            AnalyzeDocumentOperation operation = await client.AnalyzeDocumentFromUriAsync(WaitUntil.Completed, "prebuilt-document", fileUri);
 
-AnalyzeResult result = operation.Value;
+            AnalyzeResult result = operation.Value;
 
- Dictionary<string, object> dict = new Dictionary<string, object>();
+            Dictionary<string, object> dict = new Dictionary<string, object>();
 
-foreach (DocumentKeyValuePair kvp in result.KeyValuePairs)
-{
-       dict.Add(kvp.Key.Content, kvp.Value.Content);
-}
+            foreach (DocumentKeyValuePair kvp in result.KeyValuePairs)
+            {
+                dict.Add(kvp.Key.Content, kvp.Value.Content);
+            }
 
-String json = JsonConvert.SerializeObject(dict, new JsonSerializerSettings { Formatting = Formatting.None });
+            String json = JsonConvert.SerializeObject(dict, new JsonSerializerSettings { Formatting = Formatting.None });
+            
+            return json;
+        }
+
+        async public Task<Patient> UpdateExam(string PatientID)
+        {
+
+            var patient = await GetPatient(PatientID);
+            if (patient is null) return null;
  
- return json;
- }
+            string  json = await this.GetExam(PatientID);
+           
+        
+            var exam_data = JsonConvert.DeserializeObject<Dictionary<string,object>>(json);
+
+
+            string jsonpaciente = JsonConvert.SerializeObject(patient);
+            var patient_data = JsonConvert.DeserializeObject<Dictionary<string,object>>(jsonpaciente);
+            foreach (KeyValuePair<string, object> exam in exam_data)
+            {
+                if(patient_data.ContainsKey(exam.Key)){
+                    patient_data[exam.Key] = exam.Value;
+                }
+                
+            }
+            String patientData_string = JsonConvert.SerializeObject(patient_data, new JsonSerializerSettings { Formatting = Formatting.None });
+            Patient patientData = JsonConvert.DeserializeObject<Patient>(patientData_string);
+            Console.WriteLine($"Patient {PatientID} has been updated.");
+            return await this.EntityCollection.SaveAsync(patientData);
+            
+        }
     }
 }
