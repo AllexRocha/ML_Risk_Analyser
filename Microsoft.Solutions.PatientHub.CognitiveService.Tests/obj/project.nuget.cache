@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hYHG3HPjd9sQvWng20bPG1DaUPfOhLVSBsgjdfcnLrt9LYznfHl4bhNJsbhlBQeFvmWyNSRtdh45VveJ4yaT2w==",
+  "dgSpecHash": "GoYUj/dLnIFVtc+n1QJ+tRKoZRekJHhv/U5ACoWRgZN+huoXA5dJuzwMqfzRlfh9EnAiCfHGCL3BBaf537jILQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService.Tests\\Microsoft.Solutions.PatientHub.CognitiveService.Tests.csproj",
+  "projectFilePath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService.Tests\\Microsoft.Solutions.PatientHub.CognitiveService.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alex\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

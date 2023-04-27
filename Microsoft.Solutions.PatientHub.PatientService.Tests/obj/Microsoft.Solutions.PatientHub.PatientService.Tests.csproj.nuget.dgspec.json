@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Tests\\Microsoft.Solutions.PatientHub.PatientService.Tests.csproj": {}
+    "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Tests\\Microsoft.Solutions.PatientHub.PatientService.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Tests\\Microsoft.Solutions.PatientHub.PatientService.Tests.csproj": {
+    "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Tests\\Microsoft.Solutions.PatientHub.PatientService.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Tests\\Microsoft.Solutions.PatientHub.PatientService.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Tests\\Microsoft.Solutions.PatientHub.PatientService.Tests.csproj",
         "projectName": "Microsoft.Solutions.PatientHub.PatientService.Tests",
-        "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Tests\\Microsoft.Solutions.PatientHub.PatientService.Tests.csproj",
+        "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Tests\\Microsoft.Solutions.PatientHub.PatientService.Tests.csproj",
         "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Tests\\obj\\",
+        "outputPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net5.0": {
             "targetAlias": ".NETCoreApp,Version=v5.0",
             "projectReferences": {
-              "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj": {
-                "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj"
+              "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj": {
+                "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj"
               },
-              "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj": {
-                "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj"
+              "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj": {
+                "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj": {
+    "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj",
+        "projectUniqueName": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj",
         "projectName": "Microsoft.Solutions.PatientHub.PatientService",
-        "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj",
+        "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj",
         "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\obj\\",
+        "outputPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -122,8 +122,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.UtilityService\\Microsoft.Solutions.PatientHub.UtilityService.csproj": {
-                "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.UtilityService\\Microsoft.Solutions.PatientHub.UtilityService.csproj"
+              "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.UtilityService\\Microsoft.Solutions.PatientHub.UtilityService.csproj": {
+                "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.UtilityService\\Microsoft.Solutions.PatientHub.UtilityService.csproj"
               }
             }
           }
@@ -138,6 +138,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Azure.AI.FormRecognizer": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.16.0, )"
+            },
             "EAE.Solutions.CosmosDB.SQL": {
               "target": "Package",
               "version": "[0.7.1, )"
@@ -181,14 +189,14 @@
         }
       }
     },
-    "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.UtilityService\\Microsoft.Solutions.PatientHub.UtilityService.csproj": {
+    "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.UtilityService\\Microsoft.Solutions.PatientHub.UtilityService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.UtilityService\\Microsoft.Solutions.PatientHub.UtilityService.csproj",
+        "projectUniqueName": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.UtilityService\\Microsoft.Solutions.PatientHub.UtilityService.csproj",
         "projectName": "Microsoft.Solutions.PatientHub.UtilityService",
-        "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.UtilityService\\Microsoft.Solutions.PatientHub.UtilityService.csproj",
+        "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.UtilityService\\Microsoft.Solutions.PatientHub.UtilityService.csproj",
         "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.UtilityService\\obj\\",
+        "outputPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.UtilityService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -254,14 +262,14 @@
         }
       }
     },
-    "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj": {
+    "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj",
+        "projectUniqueName": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj",
         "projectName": "Microsoft.Solutions.Test.MSTestV2",
-        "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj",
+        "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj",
         "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\obj\\",
+        "outputPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config"

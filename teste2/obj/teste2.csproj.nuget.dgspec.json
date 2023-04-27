@@ -42,6 +42,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Azure.AI.FormRecognizer": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.16.0, )"
+            },
             "EAE.Solutions.CosmosDB.SQL": {
               "target": "Package",
               "version": "[0.7.1, )"

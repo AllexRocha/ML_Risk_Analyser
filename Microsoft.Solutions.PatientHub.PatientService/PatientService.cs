@@ -10,6 +10,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Azure;
+using Azure.AI.FormRecognizer.DocumentAnalysis;
+using Newtonsoft.Json;
 
 namespace Microsoft.Solutions.PatientHub.PatientService
 {
@@ -26,6 +29,7 @@ namespace Microsoft.Solutions.PatientHub.PatientService
             admissionSourceService = new AdmissionSourceService(DataConnectionString, CollectionName, "AdmissionSource");
             dischargeDispositionService = new DischargeDispositionService(DataConnectionString, CollectionName, "DischargeDisposition");
             IDC9CodeService = new ICD9CodeService(DataConnectionString, CollectionName, "ICD9Code");
+
         }
 
         async public Task<IEnumerable<Patient>> GetAllPatient()
@@ -90,7 +94,7 @@ namespace Microsoft.Solutions.PatientHub.PatientService
             return await this.EntityCollection.SaveAsync(Patient);
         }
 
-        async public Task<Patient> BasicUpdate(String PatientId, BasicUpdatePatient medicamentos)
+        async public Task<Patient> BasicUpdate(string PatientId, BasicUpdatePatient medicamentos)
         {
             var varPatient = await GetPatient(PatientId);
             if (varPatient is null) return null;
@@ -100,5 +104,34 @@ namespace Microsoft.Solutions.PatientHub.PatientService
 
             return await this.UpdatePatient(varPatient);
         }
+
+
+        async public Task<string> GetExam(string PatientId)
+        {
+ 
+string endpoint = "https://formsteste.cognitiveservices.azure.com/";
+string key = "6b4446031b3f47d5ae062269b7632ccb";
+
+AzureKeyCredential credential = new AzureKeyCredential(key);
+DocumentAnalysisClient client = new DocumentAnalysisClient(new Uri(endpoint), credential);
+
+// sample document
+Uri fileUri = new Uri("https://raw.githubusercontent.com/AllexRocha/ML_Risk_Analyser/master/Forms_Recognizer/exames/exame_2.pdf");
+
+AnalyzeDocumentOperation operation = await client.AnalyzeDocumentFromUriAsync(WaitUntil.Completed, "prebuilt-document", fileUri);
+
+AnalyzeResult result = operation.Value;
+
+ Dictionary<string, object> dict = new Dictionary<string, object>();
+
+foreach (DocumentKeyValuePair kvp in result.KeyValuePairs)
+{
+       dict.Add(kvp.Key.Content, kvp.Value.Content);
+}
+
+String json = JsonConvert.SerializeObject(dict, new JsonSerializerSettings { Formatting = Formatting.None });
+ 
+ return json;
+ }
     }
 }

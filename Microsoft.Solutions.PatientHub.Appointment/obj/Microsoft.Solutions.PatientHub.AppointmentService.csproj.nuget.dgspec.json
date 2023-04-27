@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj": {}
+    "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj": {
+    "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj",
+        "projectUniqueName": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj",
         "projectName": "Microsoft.Solutions.PatientHub.AppointmentService",
-        "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj",
+        "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj",
         "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\obj\\",
+        "outputPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config"

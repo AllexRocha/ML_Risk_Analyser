@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService\\Microsoft.Solutions.PatientHub.CognitiveService.csproj": {}
+    "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService\\Microsoft.Solutions.PatientHub.CognitiveService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService\\Microsoft.Solutions.PatientHub.CognitiveService.csproj": {
+    "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService\\Microsoft.Solutions.PatientHub.CognitiveService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService\\Microsoft.Solutions.PatientHub.CognitiveService.csproj",
+        "projectUniqueName": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService\\Microsoft.Solutions.PatientHub.CognitiveService.csproj",
         "projectName": "Microsoft.Solutions.PatientHub.CognitiveService",
-        "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService\\Microsoft.Solutions.PatientHub.CognitiveService.csproj",
+        "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService\\Microsoft.Solutions.PatientHub.CognitiveService.csproj",
         "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService\\obj\\",
+        "outputPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.CognitiveService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config"

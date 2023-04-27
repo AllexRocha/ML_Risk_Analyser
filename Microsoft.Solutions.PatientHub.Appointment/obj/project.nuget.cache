@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "35as+X2dP7myyELyYWVxUq/v+uQ440conAECjY7uoj0+p1uePkM+6aLYNI2n09hXVqIPuaBjrzszI/fWLY/zew==",
+  "dgSpecHash": "kRvnfWcs25D28w7WCVSygCFjG2cycAFBkUwl6FWjcoHRqYSiDj541TDnjdDqR0+gws3iWFPaxAE9WJBUWuJATg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj",
+  "projectFilePath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alex\\.nuget\\packages\\azure.core\\1.3.0\\azure.core.1.3.0.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\eae.solutions.cosmosdb.sql\\0.7.1\\eae.solutions.cosmosdb.sql.0.7.1.nupkg.sha512",

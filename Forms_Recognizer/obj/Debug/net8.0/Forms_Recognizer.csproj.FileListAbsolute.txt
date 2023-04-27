@@ -21,3 +21,11 @@ C:\Users\alex\Downloads\Backend_Deployment\src\Forms_Recognizer\obj\Debug\net8.0
 C:\Users\alex\Downloads\Backend_Deployment\src\Forms_Recognizer\obj\Debug\net8.0\Forms_Recognizer.pdb
 C:\Users\alex\Downloads\Backend_Deployment\src\Forms_Recognizer\obj\Debug\net8.0\Forms_Recognizer.genruntimeconfig.cache
 C:\Users\alex\Downloads\Backend_Deployment\src\Forms_Recognizer\obj\Debug\net8.0\ref\Forms_Recognizer.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Forms_Recognizer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Forms_Recognizer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Forms_Recognizer\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Forms_Recognizer\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Forms_Recognizer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Forms_Recognizer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Forms_Recognizer\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\Forms_Recognizer\bin\Debug\net8.0\Newtonsoft.Json.dll

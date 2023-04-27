@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v5.0": {
       "Microsoft.Solutions.PatientHub.PatientService/1.0.0": {
         "dependencies": {
+          "Azure.AI.FormRecognizer": "4.0.0",
+          "Azure.Storage.Blobs": "12.16.0",
           "EAE.Solutions.CosmosDB.SQL": "0.7.1",
           "Microsoft.Solutions.PatientHub.UtilityService": "1.0.0",
           "Newtonsoft.Json": "13.0.1"
@@ -16,19 +18,56 @@
           "Microsoft.Solutions.PatientHub.PatientService.dll": {}
         }
       },
-      "Azure.Core/1.3.0": {
+      "Azure.AI.FormRecognizer/4.0.0": {
         "dependencies": {
-          "Microsoft.Bcl.AsyncInterfaces": "1.0.0",
-          "System.Buffers": "4.5.1",
+          "Azure.Core": "1.31.0",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Azure.AI.FormRecognizer.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.22.45803"
+          }
+        }
+      },
+      "Azure.Core/1.31.0": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.1",
           "System.Diagnostics.DiagnosticSource": "4.6.0",
-          "System.Memory": "4.5.4",
+          "System.Memory.Data": "1.0.2",
           "System.Numerics.Vectors": "4.5.0",
+          "System.Text.Encodings.Web": "4.7.2",
+          "System.Text.Json": "4.7.2",
           "System.Threading.Tasks.Extensions": "4.5.4"
         },
         "runtime": {
-          "lib/netstandard2.0/Azure.Core.dll": {
-            "assemblyVersion": "1.3.0.0",
-            "fileVersion": "1.300.20.35202"
+          "lib/net5.0/Azure.Core.dll": {
+            "assemblyVersion": "1.31.0.0",
+            "fileVersion": "1.3100.23.21004"
+          }
+        }
+      },
+      "Azure.Storage.Blobs/12.16.0": {
+        "dependencies": {
+          "Azure.Storage.Common": "12.15.0",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Azure.Storage.Blobs.dll": {
+            "assemblyVersion": "12.16.0.0",
+            "fileVersion": "12.1600.23.21104"
+          }
+        }
+      },
+      "Azure.Storage.Common/12.15.0": {
+        "dependencies": {
+          "Azure.Core": "1.31.0",
+          "System.IO.Hashing": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Azure.Storage.Common.dll": {
+            "assemblyVersion": "12.15.0.0",
+            "fileVersion": "12.1500.23.21104"
           }
         }
       },
@@ -49,8 +88,8 @@
       },
       "Microsoft.Azure.Cosmos/3.21.0": {
         "dependencies": {
-          "Azure.Core": "1.3.0",
-          "Microsoft.Bcl.AsyncInterfaces": "1.0.0",
+          "Azure.Core": "1.31.0",
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.1",
           "Microsoft.Bcl.HashCode": "1.1.0",
           "Newtonsoft.Json": "13.0.1",
           "System.Buffers": "4.5.1",
@@ -93,11 +132,11 @@
           }
         }
       },
-      "Microsoft.Bcl.AsyncInterfaces/1.0.0": {
+      "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "4.700.19.46214"
+            "fileVersion": "4.700.20.21406"
           }
         }
       },
@@ -178,7 +217,31 @@
           }
         }
       },
+      "System.IO.Hashing/6.0.0": {
+        "dependencies": {
+          "System.Buffers": "4.5.1",
+          "System.Memory": "4.5.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Hashing.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
       "System.Memory/4.5.4": {},
+      "System.Memory.Data/1.0.2": {
+        "dependencies": {
+          "System.Text.Encodings.Web": "4.7.2",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Memory.Data.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.221.20802"
+          }
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {},
       "System.Runtime.CompilerServices.Unsafe/4.5.3": {},
       "System.Security.AccessControl/4.7.0": {
@@ -216,6 +279,8 @@
         }
       },
       "System.Security.Principal.Windows/4.7.0": {},
+      "System.Text.Encodings.Web/4.7.2": {},
+      "System.Text.Json/4.7.2": {},
       "System.Threading.Tasks.Extensions/4.5.4": {},
       "System.ValueTuple/4.5.0": {},
       "System.Windows.Extensions/4.7.0": {
@@ -253,12 +318,33 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Azure.Core/1.3.0": {
+    "Azure.AI.FormRecognizer/4.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-OJLa0kwBYI3wH0g7xhkLoShUwmOCx5LkEVB2lWXqqTtQAklIKLs2znuVyFpqDICE9vJhvA5aVQHhbSz9+Hv+LQ==",
-      "path": "azure.core/1.3.0",
-      "hashPath": "azure.core.1.3.0.nupkg.sha512"
+      "sha512": "sha512-hNHAmXKZ6Nh4GnJ8zmk/IxmOKHHkm1zrv+U9X0nOX5ikdZkx4juF911p3LDHf8Fd9an9xV/D8KifKMfrsaGH0Q==",
+      "path": "azure.ai.formrecognizer/4.0.0",
+      "hashPath": "azure.ai.formrecognizer.4.0.0.nupkg.sha512"
+    },
+    "Azure.Core/1.31.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YZlzaVS4XpPPIob934+UFfxvxMWe05PG3FDfwAXZz+MY+ShDJCjMokfrfh18F7VDW5tG0iMbPVjigeL6crGCiQ==",
+      "path": "azure.core/1.31.0",
+      "hashPath": "azure.core.1.31.0.nupkg.sha512"
+    },
+    "Azure.Storage.Blobs/12.16.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1ibzh49byOzB2ds6k9bsPqXvxxzdc2U9+MmooDr/lYJHgaWEnPZYX/i04vH0oN0jBGN1diW4N27xER8npvOzCw==",
+      "path": "azure.storage.blobs/12.16.0",
+      "hashPath": "azure.storage.blobs.12.16.0.nupkg.sha512"
+    },
+    "Azure.Storage.Common/12.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/SAgn9hhjfHO0RPWp0ilGLr3aMPz+rrz6iRgLKTb1708pI78WLtsQ7/kGooUbCU2flSnk/egmJ0Qj9rFVks/nA==",
+      "path": "azure.storage.common/12.15.0",
+      "hashPath": "azure.storage.common.12.15.0.nupkg.sha512"
     },
     "EAE.Solutions.CosmosDB.SQL/0.7.1": {
       "type": "package",
@@ -274,12 +360,12 @@
       "path": "microsoft.azure.cosmos/3.21.0",
       "hashPath": "microsoft.azure.cosmos.3.21.0.nupkg.sha512"
     },
-    "Microsoft.Bcl.AsyncInterfaces/1.0.0": {
+    "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-K63Y4hORbBcKLWH5wnKgzyn7TOfYzevIEwIedQHBIkmkEBA9SCqgvom+XTuE+fAFGvINGkhFItaZ2dvMGdT5iw==",
-      "path": "microsoft.bcl.asyncinterfaces/1.0.0",
-      "hashPath": "microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512"
+      "sha512": "sha512-yuvf07qFWFqtK3P/MRkEKLhn5r2UbSpVueRziSqj0yJQIKFwG1pq9mOayK3zE5qZCTs0CbrwL9M6R8VwqyGy2w==",
+      "path": "microsoft.bcl.asyncinterfaces/1.1.1",
+      "hashPath": "microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512"
     },
     "Microsoft.Bcl.HashCode/1.1.0": {
       "type": "package",
@@ -344,12 +430,26 @@
       "path": "system.drawing.common/4.7.0",
       "hashPath": "system.drawing.common.4.7.0.nupkg.sha512"
     },
+    "System.IO.Hashing/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rfm2jYCaUeGysFEZjDe7j1R4x6Z6BzumS/vUT5a1AA/AWJuGX71PoGB0RmpyX3VmrGqVnAwtfMn39OHR8Y/5+g==",
+      "path": "system.io.hashing/6.0.0",
+      "hashPath": "system.io.hashing.6.0.0.nupkg.sha512"
+    },
     "System.Memory/4.5.4": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==",
       "path": "system.memory/4.5.4",
       "hashPath": "system.memory.4.5.4.nupkg.sha512"
+    },
+    "System.Memory.Data/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JGkzeqgBsiZwKJZ1IxPNsDFZDhUvuEdX8L8BDC8N3KOj+6zMcNU28CNN59TpZE/VJYy9cP+5M+sbxtWJx3/xtw==",
+      "path": "system.memory.data/1.0.2",
+      "hashPath": "system.memory.data.1.0.2.nupkg.sha512"
     },
     "System.Numerics.Vectors/4.5.0": {
       "type": "package",
@@ -392,6 +492,20 @@
       "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
       "path": "system.security.principal.windows/4.7.0",
       "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iTUgB/WtrZ1sWZs84F2hwyQhiRH6QNjQv2DkwrH+WP6RoFga2Q1m3f9/Q7FG8cck8AdHitQkmkXSY8qylcDmuA==",
+      "path": "system.text.encodings.web/4.7.2",
+      "hashPath": "system.text.encodings.web.4.7.2.nupkg.sha512"
+    },
+    "System.Text.Json/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
+      "path": "system.text.json/4.7.2",
+      "hashPath": "system.text.json.4.7.2.nupkg.sha512"
     },
     "System.Threading.Tasks.Extensions/4.5.4": {
       "type": "package",

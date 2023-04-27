@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f4WBV/QuxUbzH4bhtlhoDhIBJfCrVbiiU+KMUQPUwI0Hf5msrg/R1FTPuSb/SJNrgTdUodexsIeIyZxhlEeKfw==",
+  "dgSpecHash": "e0N83PzUtWfJmO53XPWaV6qYSMuhGkJWwzm696VxzpAyp/V3CsCRf+TSEWKVLTb15AhcPWMuKOrz6/v1IPNghg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.BatchInferenceService.Tests\\Microsoft.Solutions.PatientHub.BatchInferenceService.Tests.csproj",
+  "projectFilePath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.BatchInferenceService.Tests\\Microsoft.Solutions.PatientHub.BatchInferenceService.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alex\\.nuget\\packages\\azure.core\\1.3.0\\azure.core.1.3.0.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

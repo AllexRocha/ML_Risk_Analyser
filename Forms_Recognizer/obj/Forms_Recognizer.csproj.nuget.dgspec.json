@@ -45,6 +45,14 @@
             "Azure.Storage.Blobs": {
               "target": "Package",
               "version": "[12.16.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [

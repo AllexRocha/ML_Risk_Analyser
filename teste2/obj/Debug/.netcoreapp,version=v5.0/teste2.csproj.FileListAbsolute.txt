@@ -116,3 +116,8 @@ C:\Users\alex\Downloads\Backend_Deployment\src\teste2\bin\Debug\.netcoreapp,vers
 C:\Users\alex\Downloads\Backend_Deployment\src\teste2\bin\Debug\.netcoreapp,version=v5.0\Microsoft.Solutions.PatientHub.PatientService.dll
 C:\Users\alex\Downloads\Backend_Deployment\src\teste2\bin\Debug\.netcoreapp,version=v5.0\Microsoft.Solutions.PatientHub.PatientService.pdb
 C:\Users\alex\Downloads\Backend_Deployment\src\teste2\obj\Debug\.netcoreapp,version=v5.0\teste2.genruntimeconfig.cache
+C:\Users\alex\Downloads\Backend_Deployment\src\teste2\bin\Debug\.netcoreapp,version=v5.0\Azure.AI.FormRecognizer.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste2\bin\Debug\.netcoreapp,version=v5.0\Azure.Storage.Blobs.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste2\bin\Debug\.netcoreapp,version=v5.0\Azure.Storage.Common.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste2\bin\Debug\.netcoreapp,version=v5.0\System.IO.Hashing.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste2\bin\Debug\.netcoreapp,version=v5.0\System.Memory.Data.dll

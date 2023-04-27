@@ -7500,11 +7500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.AppointmentService.Tests\\Microsoft.Solutions.PatientHub.AppointmentService.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.AppointmentService.Tests\\Microsoft.Solutions.PatientHub.AppointmentService.Tests.csproj",
       "projectName": "Microsoft.Solutions.PatientHub.AppointmentService.Tests",
-      "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.AppointmentService.Tests\\Microsoft.Solutions.PatientHub.AppointmentService.Tests.csproj",
+      "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.AppointmentService.Tests\\Microsoft.Solutions.PatientHub.AppointmentService.Tests.csproj",
       "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.AppointmentService.Tests\\obj\\",
+      "outputPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.AppointmentService.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7519,11 +7519,11 @@
         "net5.0": {
           "targetAlias": ".NETCoreApp,Version=v5.0",
           "projectReferences": {
-            "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj": {
-              "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj"
+            "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj": {
+              "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.Appointment\\Microsoft.Solutions.PatientHub.AppointmentService.csproj"
             },
-            "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj": {
-              "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj"
+            "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj": {
+              "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.Test\\Microsoft.Solutions.Test.MSTestV2.csproj"
             }
           }
         }

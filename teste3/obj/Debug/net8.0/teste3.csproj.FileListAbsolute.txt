@@ -53,3 +53,8 @@ C:\Users\alex\Downloads\Backend_Deployment\src\teste3\obj\Debug\net8.0\teste3.ge
 C:\Users\alex\Downloads\Backend_Deployment\src\teste3\obj\Debug\net8.0\ref\teste3.dll
 C:\Users\alex\Downloads\Backend_Deployment\src\teste3\bin\Debug\net8.0\Microsoft.Solutions.PatientHub.BatchInferenceService.dll
 C:\Users\alex\Downloads\Backend_Deployment\src\teste3\bin\Debug\net8.0\Microsoft.Solutions.PatientHub.BatchInferenceService.pdb
+C:\Users\alex\Downloads\Backend_Deployment\src\teste3\bin\Debug\net8.0\Azure.AI.FormRecognizer.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste3\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste3\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste3\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\alex\Downloads\Backend_Deployment\src\teste3\bin\Debug\net8.0\System.Memory.Data.dll
