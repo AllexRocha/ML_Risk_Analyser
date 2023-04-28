@@ -88,5 +88,15 @@ namespace Microsoft.Solutions.PatientHub.PatientService.Host.Controllers
             await _patientService.DeletePatient(patientEntityId, patientnumber);
             return Ok();
         }
+
+        [HttpGet]
+        [Route("Patients/Exam/{PatientID}")]
+        public async Task<ActionResult<Exam>> GetExamData(string PatientId)
+        {
+            var result = await _patientService.GetExam(PatientId);
+            return (result is not null) ? Ok(result) : NotFound();
+        }
+
+        
     }
 }
