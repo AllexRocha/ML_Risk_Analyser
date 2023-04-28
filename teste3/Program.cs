@@ -45,12 +45,12 @@ public class PatientServiceTests
         Console.WriteLine(count);
     }
 
-    public async Task<Patient> Test_02_GetPatient()
+    public async Task Test_02_GetPatient()
     {
         var result = await patientService.GetPatient("1");
      
-        return result;
-            //  Console.WriteLine(JsonConvert.SerializeObject(result));
+      
+        Console.WriteLine(JsonConvert.SerializeObject(result));
         
        
     }
@@ -85,7 +85,7 @@ public class PatientServiceTests
 
             public async Task Test_01_GetExamTest()
     {
-        var result = await patientService.GetExam("1643712811");
+        var result = await patientService.GetExam("1");
 
         Console.WriteLine(result);
         // foreach (var item in result)
@@ -97,7 +97,7 @@ public class PatientServiceTests
 
         public async Task Test_02_UpdateExam()
     {
-     var result = await patientService.UpdateExam("1");
+     var result = await patientService.UpdateExam("2");
     }
 
        public static async Task Main()

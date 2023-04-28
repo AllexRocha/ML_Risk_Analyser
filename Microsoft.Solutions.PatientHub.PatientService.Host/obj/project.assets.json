@@ -394,6 +394,15 @@
           }
         }
       },
+      "OneOf/3.0.243": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/OneOf.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/OneOf.dll": {}
+        }
+      },
       "Swashbuckle.AspNetCore/5.6.3": {
         "type": "package",
         "dependencies": {
@@ -1407,6 +1416,21 @@
         "newtonsoft.json.bson.nuspec"
       ]
     },
+    "OneOf/3.0.243": {
+      "sha512": "7zbyWxAbh0FZTVTpfqd8lIo9ejgoxPuadZgYTZLCq8aCtLQ5biQZ8gv61hpCbi/XuII0JlqfOTfocvv4wu8Xdw==",
+      "type": "package",
+      "path": "oneof/3.0.243",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/OneOf.dll",
+        "lib/net45/OneOf.dll",
+        "lib/netstandard1.3/OneOf.dll",
+        "lib/netstandard2.0/OneOf.dll",
+        "oneof.3.0.243.nupkg.sha512",
+        "oneof.nuspec"
+      ]
+    },
     "Swashbuckle.AspNetCore/5.6.3": {
       "sha512": "UkL9GU0mfaA+7RwYjEaBFvAzL8qNQhNqAeV5uaWUu/Z+fVgvK9FHkGCpTXBqSQeIHuZaIElzxnLDdIqGzuCnVg==",
       "type": "package",
@@ -2107,10 +2131,12 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Azure.AI.FormRecognizer >= 4.0.0",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 5.0.5",
       "Microsoft.Extensions.Caching.Memory >= 5.0.0",
       "Microsoft.Solutions.PatientHub.PatientService >= 1.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.13",
+      "OneOf >= 3.0.243",
       "Swashbuckle.AspNetCore >= 5.6.3",
       "Swashbuckle.AspNetCore.Newtonsoft >= 6.1.4"
     ]
@@ -2121,11 +2147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Host\\Microsoft.Solutions.PatientHub.PatientService.Host.csproj",
+      "projectUniqueName": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Host\\Microsoft.Solutions.PatientHub.PatientService.Host.csproj",
       "projectName": "Microsoft.Solutions.PatientHub.PatientService.Host",
-      "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Host\\Microsoft.Solutions.PatientHub.PatientService.Host.csproj",
+      "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Host\\Microsoft.Solutions.PatientHub.PatientService.Host.csproj",
       "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Host\\obj\\",
+      "outputPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Host\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2140,8 +2166,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj": {
-              "projectPath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj"
+            "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj": {
+              "projectPath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService\\Microsoft.Solutions.PatientHub.PatientService.csproj"
             }
           }
         }
@@ -2156,6 +2182,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Azure.AI.FormRecognizer": {
+            "target": "Package",
+            "version": "[4.0.0, )"
+          },
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
             "target": "Package",
             "version": "[5.0.5, )"
@@ -2167,6 +2197,10 @@
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
             "target": "Package",
             "version": "[1.10.13, )"
+          },
+          "OneOf": {
+            "target": "Package",
+            "version": "[3.0.243, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

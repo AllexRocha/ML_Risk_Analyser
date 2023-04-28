@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g6noKVs/qoVb3AiPc3MCuFPu/amslLwEHN70smK0DV7Sjc0Caj7RqXBRw93HMRT9Yo/w2OtkO+jiVqIAACCSeg==",
+  "dgSpecHash": "HgmBEfJwmPHjPYpMcNkq4O2nWpRD3WxTqwQAVdXaVLoqMC3DFeK2gLoK+mZ7Uh5B3IzK8Yx8oTVZ5Oc80MBdVg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Host\\Microsoft.Solutions.PatientHub.PatientService.Host.csproj",
+  "projectFilePath": "C:\\Users\\alex\\Downloads\\Backend_Deployment\\src\\Microsoft.Solutions.PatientHub.PatientService.Host\\Microsoft.Solutions.PatientHub.PatientService.Host.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alex\\.nuget\\packages\\azure.ai.formrecognizer\\4.0.0\\azure.ai.formrecognizer.4.0.0.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\azure.core\\1.31.0\\azure.core.1.31.0.nupkg.sha512",
@@ -28,6 +28,7 @@
     "C:\\Users\\alex\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\oneof\\3.0.243\\oneof.3.0.243.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\swashbuckle.aspnetcore.newtonsoft\\6.1.4\\swashbuckle.aspnetcore.newtonsoft.6.1.4.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
@@ -52,10 +53,10 @@
     "C:\\Users\\alex\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\alex\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

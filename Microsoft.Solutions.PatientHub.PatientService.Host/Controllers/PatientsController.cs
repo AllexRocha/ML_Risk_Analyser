@@ -91,12 +91,18 @@ namespace Microsoft.Solutions.PatientHub.PatientService.Host.Controllers
 
         [HttpGet]
         [Route("Patients/Exam/{PatientID}")]
-        public async Task<ActionResult<Exam>> GetExamData(string PatientId)
-        {
-            var result = await _patientService.GetExam(PatientId);
+        public async Task<ActionResult<Exam>> GetExams(string PatientId)
+        {  
+            Exam result = await _patientService.GetExam(PatientId);
             return (result is not null) ? Ok(result) : NotFound();
         }
 
-        
+        [HttpGet]
+        [Route("Patients/PacientExam/{PatientID}")]
+        public async Task<ActionResult<Patient>> GetPacientExams(string PatientId)
+        {  
+            Patient result = await _patientService.UpdateExam(PatientId);
+            return (result is not null) ? Ok(result) : NotFound();
+        }
     }
 }

@@ -106,7 +106,7 @@ namespace Microsoft.Solutions.PatientHub.PatientService
         }
 
 
-        async public Task<string> GetExam(string PatientId)
+        async public Task<Exam> GetExam(string PatientId)
         {
  
             string endpoint = "https://formsteste.cognitiveservices.azure.com/";
@@ -130,8 +130,8 @@ namespace Microsoft.Solutions.PatientHub.PatientService
             }
 
             String json = JsonConvert.SerializeObject(dict, new JsonSerializerSettings { Formatting = Formatting.None });
-            
-            return json;
+            Exam patientData = JsonConvert.DeserializeObject<Exam>(json);
+            return patientData;
         }
 
         async public Task<Patient> UpdateExam(string PatientID)
@@ -139,9 +139,11 @@ namespace Microsoft.Solutions.PatientHub.PatientService
 
             var patient = await GetPatient(PatientID);
             if (patient is null) return null;
- 
-            string  json = await this.GetExam(PatientID);
-           
+
+            Exam Exam_data = await this.GetExam(PatientID);
+
+            // string  json = await this.GetExam(PatientID);
+           String json = JsonConvert.SerializeObject(Exam_data, new JsonSerializerSettings { Formatting = Formatting.None });
         
             var exam_data = JsonConvert.DeserializeObject<Dictionary<string,object>>(json);
 

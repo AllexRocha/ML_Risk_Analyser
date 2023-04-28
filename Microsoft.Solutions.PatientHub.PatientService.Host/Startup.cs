@@ -29,6 +29,15 @@ namespace Microsoft.Solutions.PatientHub.PatientService.Host
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+                {
+                    options.AddPolicy("MyCorsPolicy", builder =>
+                    {
+                        builder.WithOrigins("http://localhost:5000")
+                            .AllowAnyHeader()
+                            .AllowAnyMethod();
+                    });
+                });
             services.AddResponseCompression();
             services.AddControllers();
             services.AddControllers().AddNewtonsoftJson();
@@ -44,11 +53,16 @@ namespace Microsoft.Solutions.PatientHub.PatientService.Host
             services.AddTransient<PatientService>(x => { return new PatientService(Configuration["Values:DBConnectionString"], Configuration["Values:DatabaseName"], "Patient"); });
             services.AddTransient<AdmissionSourceService>(x => { return new AdmissionSourceService(Configuration["Values:DBConnectionString"], Configuration["Values:DatabaseName"], "AdmissionSource"); });
             services.AddTransient<AdmissionService>(x => { return new AdmissionService(Configuration["Values:DBConnectionString"], Configuration["Values:DatabaseName"], "AdmissionType"); });
+
+
+        
+        
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+             app.UseCors("MyCorsPolicy");
             //if (env.IsDevelopment())
             //{
             app.UseDeveloperExceptionPage();
@@ -66,6 +80,8 @@ namespace Microsoft.Solutions.PatientHub.PatientService.Host
             {
                 endpoints.MapControllers();
             });
+
+           
         }
     }
 }

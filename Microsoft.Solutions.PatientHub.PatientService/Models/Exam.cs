@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Microsoft.Solutions.PatientHub.PatientService.Models
 {
-    public class Exam : CosmosDBEntityBase
+    public class Exam
     {
         public string weight { get; set; }
         public int admission_type_id { get; set; }
