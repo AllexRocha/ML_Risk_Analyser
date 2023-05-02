@@ -116,7 +116,7 @@ namespace Microsoft.Solutions.PatientHub.PatientService
             DocumentAnalysisClient client = new DocumentAnalysisClient(new Uri(endpoint), credential);
 
             // sample document
-            Uri fileUri = new Uri($"https://raw.githubusercontent.com/AllexRocha/ML_Risk_Analyser/master/Forms_Recognizer/exames/{PatientId}.pdf");
+            Uri fileUri = new Uri($"https://storageaccelerator001.blob.core.windows.net/frecognizer/{PatientId}.pdf");
 
             AnalyzeDocumentOperation operation = await client.AnalyzeDocumentFromUriAsync(WaitUntil.Completed, "prebuilt-document", fileUri);
 
